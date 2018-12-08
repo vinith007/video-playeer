@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+##procedure
+inorder buid this project you need select the folder and open commandprompt and type
+'ng new projectname --routing'
+the above command installs all the modules required for the project
+the move the project by 'cd projectname'
+to open in browser type 'ng serve -o'
+to get distibutable folder we need to type 'ng build'
+then get the missing files from the above files 
